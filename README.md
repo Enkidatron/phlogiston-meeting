@@ -1,0 +1,1 @@
+A real time presentation sharing proof of concept using React and Firebase. 

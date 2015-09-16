@@ -1,0 +1,32 @@
+{
+	"name": "phlogiston-meeting",
+	"description": "Meeting presentation using React",
+	"version": "0.1.0",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Mickydtron/phlogiston-meeting.git"
+	},
+	"devDependencies": {
+		"webpack": "~1.11.0",
+		"webpack-dev-server": "*",
+		"react-hot-loader": "~1.2.8",
+		"jsx-loader": "*",
+		"css-loader": "*",
+		"expose-loader": "~0.7.0",
+		"imports-loader": "~0.6.4",
+		"exports-loader": "~0.6.2",
+		"json-loader": "*", 
+		"file-loader": "*",
+		"url-loader": "*"
+	},
+	"dependencies": {
+		"react": "*",
+		"react-router": ">=1.0.0-rc1",
+		"react-bootstrap": "*",
+		"react-router-bootstrap": "*",
+		"bootstrap-webpack": "*",
+		"reflux": "*",
+		"jquery": "*"
+	}
+}
